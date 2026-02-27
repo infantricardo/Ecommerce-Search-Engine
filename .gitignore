@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Django / local data
+db.sqlite3
+*.sqlite3
+
+# Environment files
+.env
+.env.*
+
+# Meilisearch local data (if mounted locally)
+data.ms/
+
+# macOS
+.DS_Store

@@ -1,0 +1,4 @@
+Django==5.2.11
+djangorestframework==3.16.1
+rapidfuzz==3.14.3
+meilisearch==0.40.0
